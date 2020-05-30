@@ -1,6 +1,5 @@
 - [主页](/)
 - 更多
-  - [ESG/CSR咨询](https://3feng.im/)
+  - [CSR博客](https://3feng.im/)
   - [公益创投](https://lib.3feng.im/venture-philanthropy/)
-  - [项目实践](https://lib.3feng.im/practices/)
-- [联系](https://3feng.im/contact)
+- [联系](contact)

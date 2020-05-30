@@ -6,7 +6,6 @@
 - How to measure ESG
 - ESG Application 
 
-[ESG介绍](/quickstart)
-[ESG投资](configuration)
+[ESG介绍](/about/ESG)
 [ESG咨询](contact)
 
