@@ -14,7 +14,7 @@ ESG的发展可追溯至上世纪70年代，发达国家开始兴起绿色消费
 
 **国际证券委员会组织（IOSCO）**
 
-- 2019年1月，  IOSCO（International Organization of Securities Commissions）发布《[关于发行人ESG信息披露事项声明](https://www.iosco.org/library/pubdocs/pdf/IOSCOPD619.pdf)》（[Statement on Disclosure of ESG Matters by Issuers](https://esg.3feng.im/apply/STATEMENT-ON-DISCLOSURE-OF-ESG-MATTERS-BY-ISSUERS.pdf)）文件，强调在披露和备案中加入ESG因素的重要性，并要求发行人提供完整、准确、及时的财务状况、风险披露。同时，声明鼓励发行人在其业务、风险与机遇评估过程中加入对发行企业财务业绩和价值创造潜在影响、ESG相关重大风险治理与监管意见以及ESG披露预计使用的风险评估方法与框架。
+- 2019年1月，  IOSCO（International Organization of Securities Commissions）发布《[关于发行人ESG信息披露事项声明](https://www.iosco.org/library/pubdocs/pdf/IOSCOPD619.pdf)》（[Statement on Disclosure of ESG Matters by Issuers](/apply/STATEMENT-ON-DISCLOSURE-OF-ESG-MATTERS-BY-ISSUERS.pdf ':ignore')）文件，强调在披露和备案中加入ESG因素的重要性，并要求发行人提供完整、准确、及时的财务状况、风险披露。同时，声明鼓励发行人在其业务、风险与机遇评估过程中加入对发行企业财务业绩和价值创造潜在影响、ESG相关重大风险治理与监管意见以及ESG披露预计使用的风险评估方法与框架。
 - 2019年6月，IOSCO又发布《新兴市场可持续金融与证券监管者的角色》最终报告，提出了十点建议以供IOSCO成员在发布有关可持续发展主题的资本市场产品和ESG披露要求的指南或规章时参考，旨在强化信息透明度，推动可持续金融发展，通过可持续性手段促进国际证券指导间的协调。该十条建议包括由发行人和其他受监管主体（包括董事会）在风险评估和治理中整合ESG重大问题；由机构投资者（包括资产管理者和资产所有者）将ESG特殊问题纳入投资分析政策；由监管机构要求披露ESG特殊风险、报告数据；关于可持续性手段的具体要求等。
 
 **气候相关财务信息披露工作组（TCFD）**
@@ -25,15 +25,21 @@ TCFD（Task Force on Climate-Related Financial Disclosures），意即气候相�
 
 TCFD主要面向投资方、贷款方和保险公司等金融机构和非金融机构提供与气候相关的金融风险自愿信息披露建议，合理评估气候相关风险与机遇。
 
-- 2017年6月，TCFD发布《[气候相关财务信息披露工作组建议](https://www.fsb-tcfd.org/publications/final-recommendations-report/)》（Recommendations of the Task Force on Climate-related Financial Disclosures，[中文版](https://esg.3feng.im/apply/TCFD-Report-CHINESE-Version-FINAL-TCFD-Report-062817-Translation-20171119.docx)）最终报告以及特定行业补充指南，将气候变化纳入公司治理并对11项与气候相关的金融风险信息披露提出意见。
+- 2017年6月，TCFD发布《[气候相关财务信息披露工作组建议](https://www.fsb-tcfd.org/publications/final-recommendations-report/)》（Recommendations of the Task Force on Climate-related Financial Disclosures，[中文版](../apply/TCFD-Report-CHINESE-Version-FINAL-TCFD-Report-062817-Translation-20171119.docx ':ignore')）最终报告以及特定行业补充指南，将气候变化纳入公司治理并对11项与气候相关的金融风险信息披露提出意见。
 - 意见涵盖治理、战略、风险管理、指标和目标四大主题，分别对企业在识别气候风险与机遇、评估气候风险和机遇的指标与目标、预估风险与机遇对组织战略和财务计划的实际与潜在影响、治理气候相关风险的过程中信息披露给出建议，并强调通过审计和风险委员会加强对气候风险和机遇的监督，强化可持续发展、气候治理、财务合规等部门之间的合作。
+
+![TCFD-suggestion-1](TCFD-suggestion-1.png)
+
+![TCFD-suggestion-2](TCFD-suggestion-2.png)
+
+![TCFD-suggestion-3](TCFD-suggestion-3.png)
 
 **央行与监管机构绿色金融合作网络（NGFS）**
 
 NGFS（The Network of Central Banks and Supervisors for Greening the Financial System）
 
-- 2019年4月，NGFS发布《[行动呼吁：气候变化是财务风险来源](https://www.ngfs.net/sites/default/files/medias/documents/synthese_ngfs-2019_-_17042019_0.pdf)》（[A call for action Climate change as a source of financial risk](https://esg.3feng.im/apply/A-call-for-action-Climate-change-as-asource-of-financial-risk.pdf)），对央行、政策制定者、监管者和金融机构提出六条建议以促进气候相关风险方面的集体领导和全球协调行动，并呼吁央行将ESG因素纳入央行自有资产管理。报告同时列示了中国《绿色债券支持项目目录》和欧盟《可持续金融行动计划》相关内容，强调可在不同司法管辖区挖掘潜在的协同效应。
-- 2019年10月，NGFS发布《[SRI投资指南](https://www.ngfs.net/sites/default/files/medias/documents/ngfs-a-sustainable-and-responsible-investment-guide.pdf)》([A sustainable and responsible investment guide](https://esg.3feng.im/apply/A-sustainable-and-responsible-investment-guide.pdf))，鼓励央行将TCFD框架用于自身信息披露环节，并在投资组合管理中采用可持续发展和责任投资原则以缓释可持续发展风险。目前，NGFS已经开始计划制定《气候与环境风险管理手册》。
+- 2019年4月，NGFS发布《[行动呼吁：气候变化是财务风险来源](https://www.ngfs.net/sites/default/files/medias/documents/synthese_ngfs-2019_-_17042019_0.pdf)》（[A call for action Climate change as a source of financial risk](../apply/A-call-for-action-Climate-change-as-asource-of-financial-risk.pdf ':ignore')），对央行、政策制定者、监管者和金融机构提出六条建议以促进气候相关风险方面的集体领导和全球协调行动，并呼吁央行将ESG因素纳入央行自有资产管理。报告同时列示了中国《绿色债券支持项目目录》和欧盟《可持续金融行动计划》相关内容，强调可在不同司法管辖区挖掘潜在的协同效应。
+- 2019年10月，NGFS发布《[SRI投资指南](https://www.ngfs.net/sites/default/files/medias/documents/ngfs-a-sustainable-and-responsible-investment-guide.pdf)》([A sustainable and responsible investment guide](../apply/A-sustainable-and-responsible-investment-guide.pdf ':ignore'))，鼓励央行将TCFD框架用于自身信息披露环节，并在投资组合管理中采用可持续发展和责任投资原则以缓释可持续发展风险。目前，NGFS已经开始计划制定《气候与环境风险管理手册》。
 
 ## ESG 指数产品
 
@@ -69,7 +75,7 @@ NGFS（The Network of Central Banks and Supervisors for Greening the Financial S
 
 - 将ESG理念贯穿至投资过程。
 - 将ESG风险和机会纳入传统财务分析和投资决策。这种类型包括在主流投资分析中考虑财务因素的同时考虑ESG因素。整合过程侧重於ESG问题对公司财务(正面和负面)的潜在影响，这反过来可能会影响投资决策。
-- 在CFA与PRI联合发布的《[中国的ESG整合：实践指导和案例研究](https://www.unpri.org/download?ac=9664&adredir=1)》（[备份](https://esg.3feng.im/apply/bkcfaesg_integration_chinafinal_chineseversion_535531.pdf)）这一报告中，探讨了目前国内主流基金的ESG整合实践方法。
+- 在CFA与PRI联合发布的《[中国的ESG整合：实践指导和案例研究](https://www.unpri.org/download?ac=9664&adredir=1)》（[备份](../apply/bkcfaesg_integration_chinafinal_chineseversion_535531.pdf ':ignore')）这一报告中，探讨了目前国内主流基金的ESG整合实践方法。
 
 **可持续性聚焦**
 
@@ -77,7 +83,7 @@ NGFS（The Network of Central Banks and Supervisors for Greening the Financial S
 
 **影响力投资**
 
-!> 定义来自 [Rockerfeller Philanthropy Adivsors](https://www.rockpa.org/wp-content/uploads/2019/02/II-Introduction_CN-1.pdf) （[中文](https://esg.3feng.im/apply/impact-investment.pdf)）
+!> 定义来自 [Rockerfeller Philanthropy Adivsors](https://www.rockpa.org/wp-content/uploads/2019/02/II-Introduction_CN-1.pdf) （[中文](../apply/impact-investment.pdf ':ignore')）
 
 影响力投资的定义是，对公司、组织和基金的投资，且该投资以获得财务回报的同时产生社会与环境影响为目的。
 
@@ -89,7 +95,7 @@ NGFS（The Network of Central Banks and Supervisors for Greening the Financial S
 
 ### 将ESG应用于固定收益类证券估值
 
-特许金融分析师协会（Chartered Financial Analyst Institute，CFA Institute）和联合国责任投资原则(Principle for Responsible Investment，PRI) 发布的最新研究 [GUIDANCE AND CASE STUDIES FOR ESG INTEGRATION:EQUITIES AND FIXED INCOME](https://www.unpri.org/download?ac=5962) （[备份](https://esg.3feng.im/apply/CFA-and-PRI.pdf)）显示，将ESG应用於固定收益类证券估值可以采用信用分析、相关价值分析/延伸分析、长期分析、敏感性/情景分析四种方式。 
+特许金融分析师协会（Chartered Financial Analyst Institute，CFA Institute）和联合国责任投资原则(Principle for Responsible Investment，PRI) 发布的最新研究 [GUIDANCE AND CASE STUDIES FOR ESG INTEGRATION:EQUITIES AND FIXED INCOME](https://www.unpri.org/download?ac=5962) （[备份](../apply/CFA-and-PRI.pdf ':ignore')）显示，将ESG应用於固定收益类证券估值可以采用信用分析、相关价值分析/延伸分析、长期分析、敏感性/情景分析四种方式。 
 
 **Security Valuation—Fixed Income**
 
