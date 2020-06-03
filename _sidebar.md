@@ -1,4 +1,4 @@
-* [ESG为何重要<sup style="color:red">(hot)<sup>](why-esg-matters.md)
+* [ESG为何重要](why-esg-matters.md)
 
 * ESG介绍
 
@@ -9,6 +9,8 @@
 
   * [ESG标准](criteria/ESG-Criteria.md)
   * [ESG在中国](criteria/ESG-China.md)
+  * [港交所ESG](criteria/hkex-ESG.md)
+  * [港交所ESG解读<sup style="color:red">(new)<sup>](criteria/hkex-new-esg-guide-2019.md)
 
 * ESG应用
   
@@ -20,11 +22,11 @@
 * ESG 披露实践
   
   * [ESG披露指南](how/ESG-guide.md)
+  * [需要帮助？](contact.md)
 
 * 一些链接
   * [UNPRI](https://www.unpri.org)
   * [作者网站](https://3feng.im)
-  * [联系](contact.md)
 
 <!-- * Links
   * [![Code](https://icongr.am/feather/code.svg?size=16&color=808080)Demo Sandbox](https://codesandbox.io/s/xv36w4695o)
