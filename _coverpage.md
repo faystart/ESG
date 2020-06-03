@@ -1,6 +1,6 @@
 # <span style="font-weight:404;">aboutESG.xyz</span> <small>beta 0.1</small>
 
-> All about ESG (Environmental, Social, and Governance)and more.
+> All about ESG (Environmental, Social, Governance)and more.
 
 - About ESG criteria
 - ESG disclosure guide
