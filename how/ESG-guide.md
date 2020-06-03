@@ -2,7 +2,7 @@
 
 在中文语境里，香港交易所的ESG指引由于借鉴了GRI、TCFD，加上简便易懂，其实用性强，非常适用于广大中国公司。而且，由于近几年的发展，香港交易所的对于ESG报告的如何披露也有非常详尽的描述。
 
-主要参阅香港交易所《[如何编备环境、社会及管治报告](https://www.hkex.com.hk/-/media/HKEX-Market/Listing/Rules-and-Guidance/Other-Resources/Listed-Issuers/Environmental-Social-and-Governance/Exchanges-guidance-materials-on-ESG/step_by_step_c.pdf?la=zh-HK)》（[中文版](how/hkex-esg-reporting-guide.pdf)）
+主要参阅香港交易所《[如何编备环境、社会及管治报告](https://www.hkex.com.hk/-/media/HKEX-Market/Listing/Rules-and-Guidance/Other-Resources/Listed-Issuers/Environmental-Social-and-Governance/Exchanges-guidance-materials-on-ESG/step_by_step_c.pdf?la=zh-HK)》（[中文版](/how/hkex-esg-reporting-guide.pdf ':ignore')）
 
 ## 第一步 治理架构
 
