@@ -4,6 +4,26 @@
 
 主要参阅香港交易所《[如何编备环境、社会及管治报告](https://www.hkex.com.hk/-/media/HKEX-Market/Listing/Rules-and-Guidance/Other-Resources/Listed-Issuers/Environmental-Social-and-Governance/Exchanges-guidance-materials-on-ESG/step_by_step_c.pdf?la=zh-HK)》（[中文版](/how/hkex-esg-reporting-guide.pdf ':ignore')）
 
+## 投资者对于ESG的期待
+
+- ESG报告有助于投资者理解公司业绩表现。投资者希望不断看到公司战略、发展目标、执行过程、重大风险、关键表现和进步等信息
+
+  > Sullivan Rory. Valuing corporate Responsibility. How do investors really use corporate responsibility information?，2011 
+
+### 投资者对ESG数据的期待
+
+> 《[中国的ESG数据披露：关键ESG指标建议](https://www.unpri.org/download?ac=6973)》（[备份](/how/ESGDisclosure-in-China.pdf':ignore')），UNPRI
+
+- **数据可比性和标准化**：公司应采用标准化的指标，并以现存国际及地区性的框架为指导。与香港上市规则要求（ESG指引）内所列数据可比这一点被特别提及；
+- **清晰的披露范围和透明的方法论**：披露框架中所有指标均可用，并与现行方法论相符，以确保方法论的时间一致性；
+- **数据的时间稳定性**：使用相同的范围和方法论建立连续的时间序列数据，使投资者可对公司历史数据进行对比；
+- **与现存ESG数据整合**：包括与证券交易所现行要求相符；
+- **数据的可得性**：分析师应能够获取所有公开数据，以及原始形式的数据，包括在现存渠道中已经披露的数据，例如政府数据库中的数据；
+- **战略方式**：实质性ESG指标需在公司战略中有所体现，公司需理解监测并通报这些ESG数据的原因，ESG数据需在公司业绩表现的背景中得到解释。投资者希望避免公司仅以完成任务或服从合规的心态进行此项工作；
+- **高层管理者监督**：除委派专人管理ESG信息披露相关事务之外，高层管理者应对报告负责，以确保报告的质量，保证公司对ESG议题及其如何影响公司战略有良好的理解（包括数据分析、量化指标的解释，及与行业平均水平和历史业绩进行对比）；
+- **强有力的执行**： 对错报、漏报考虑采取惩罚措施；
+- **根据基本的认证标准进行核实**。
+
 ## 第一步 治理架构
 
 **董事会的角色**
