@@ -264,3 +264,32 @@ MSCI ESG评级关注37项ESG关键议题，涉及污染和排放、人力资本�
 - 所选择的指数评级不同，应根据目的来进行甄别，如吸引投资者的话应选择哪个，这个需要决策层定夺；
 - 详细、公开的信息披露是ESG评级的基础，做到这一点之后，其他才能纷至沓来；
 - 可依托第三方专业机构提供深入和具体的指数分析和解读服务。
+
+### EcoVadis CSR评级
+
+EcoVadis按照ISO26000社会责任指南评估供应商的表现，得出一系列结果，并供一些企业以评价其供应商的环境和社会责任水平。
+
+其评级涵盖[四大主题（环境、劳工与人权、道德、可持续采购）的21条企业社会责任标准](apply/ecovadis_methodology__zh.pdf ":ignore")。
+
+### [ISS ESG](https://www.issgovernance.com/esg/ratings/)
+
+> Institutional Shareholder Services Inc. (ISS) is a proxy advisory firm. Hedge funds, mutual funds and similar organizations that own shares of multiple companies pay ISS to advise (and often vote their shares) regarding share holder votes. It is the largest such firm, with over 61 percent of the business. (via [wikipedia](https://en.wikipedia.org/wiki/Institutional_Shareholder_Services))
+
+>ISS评级被视为行业最高质量指标之一，它分析了一家公司对ESG的管理相关事务，分析是建立在多达100个项目的严格标准基础上的。这些标准不断得到审查和发展，以符合最新的科学发现、技术发展、监管变化和社会辩论。
+
+### Sustainalytics
+
+> Sustainalytics' ESG Risk Ratings offer investors a distinct risk signal and deep insights into why certain ESG issues are considered material for a company and how well a company is managing those risks.
+>
+> Sustainalytics' ESG Risk Ratings combine the concepts of management and exposure to arrive at an assessment of ESG risk that is comparable across all industries. With the risk assessments being absolute rather than relative to a group of peers, investors have a clear lens into a company's performance relative to any other company in any subindustry or region.
+
+![sustainalytics](sustainalytics.png)
+
+### Fitch Ratings (惠譽國際)
+
+惠誉国际在新闻稿中提出：
+
+> 惠誉的分析团队建立了新的ESG相关性评分（ESG Relevance Scores），显示了ESG因素在评级决策中的相关和重要性。
+
+在其[ESG页面](https://www.fitchratings.com/topics/esg)，暂没有评分的标准或更多资料。
+
