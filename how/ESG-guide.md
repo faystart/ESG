@@ -132,3 +132,20 @@
 5. 独立验证(如适用)；及
 6. 公司拟向投资者及其他利益相关方传达的主要信息（对未来的展望等）。
 
+## 如何制定碳排放目标
+
+[**Science-based targets**](https://sciencebasedtargets.org/what-is-a-science-based-target/) 为公司提供了一个 [Science-Based Target Setting Manual](https://sciencebasedtargets.org/wp-content/uploads/2017/04/SBTi-manual.pdf) （[以科学为基础的碳排放目标制定手册](/how/SBTi-manual.pdf ':ignore')）。
+
+([本部分参考](https://mp.weixin.qq.com/s/KcZX10_QrLb1Ehl-AQBWXg))
+
+**Overview of Available Target-Setting Methods** 
+
+There   are   three   available   target-setting   methods:   absolute   emissions   contraction,   the   Sectoral   Decarbonization  Approach,  and  economic  intensity  contraction.  In  general,  an  SBT  method  comprises  three components: 
+
+1. A carbon budget; （预算）
+2. an emissions scenario; and 排放情景，以及 
+3. an allocation approach (convergence or contraction). 分配方法
+
+![](SBTI.png)
+
+### 制定的方法：
