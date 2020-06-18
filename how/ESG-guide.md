@@ -149,3 +149,146 @@ There   are   three   available   target-setting   methods:   absolute   emissio
 ![](SBTI.png)
 
 ### 制定的方法：
+
+有三种受SBTi认可的公司碳目标设定方法：
+
+- **行业脱碳方法(Sectoral Decarbonization Approach ,SDA)**（对同质性部门使用趋同convergence方法），
+- **绝对排放收缩（absolute emission contraction）**和
+- **经济强度（economic intensity contraction）收缩**
+
+> - 行业脱碳方法:  SDA  目标以排放/特定商业指标（例如生产每吨产品的吨二氧化碳当量）的形式提出。这一方法基于如下假设：到2050年，在同一个同质部门内，所有生产者的排放强度（physical  emission  intensity）将趋同至同一数值。不同公司根据其基准年排放强度和他们在行业活动中所占的比重来划分各自的责任，因此对于市场份额不断增长的公司，SDA要求更快速的排放强度减排路径，以免导致行业碳预算超标。
+> - 绝对排放收缩：绝对收缩方法要求公司将其减排目标设定为与1.5°C或WB-2°C（Well Below 2℃）目标要求相一致减排速度（目标年温室气体减排量/基准年温室气体排放量）。
+> - 经济强度收缩：这种方法的减排目标以温室气体排放/企业附加值（GEVA，Greenhouse Gas Emissions per Value Added）作为衡量，要求企业每年将GEVA减少7%。经济强度的单位为吨二氧化碳排放当量/$附加值。
+
+**Absolute Emission Contraction**
+
+Absolute Emissions Contraction is a method for setting absolute targets that uses contraction of absolute
+emissions. Through this approach, all companies reduce their absolute emissions at the same rate,
+irrespective of initial emissions performance. Consequently, an absolute emissions reduction target is
+defined in terms of an overall reduction in the amount of GHGs emitted to the atmosphere by the target
+year, relative to the base year (e.g. reduce annual CO2e emissions 35% by 2025, from 2018 levels).
+
+The minimum reduction required for targets in line with well-below 2°C scenarios is 2.5% in annual linear
+terms. Companies, particularly those in developed countries, are strongly encouraged to adopt targets
+with a 4.2% annual linear reduction to be aligned with limiting warming to 1.5°C.
+
+This method is a simple, straightforward approach to set and track progress toward targets that is
+applicable to most sectors. Table 3-1 specifies which sectors should not use the approach. 
+
+| Method                         | Company Input                                                | Method Output                                                |
+| ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Absolute emissions contraction | ● Base year<br />● Target year <br />● Base year emissions, disaggregated by scope | Overall reduction in the amount of absolute GHGs emitted to the atmosphere by the target year, relative to the base year |
+
+Example of absolute targets set:
+
+- Cisco commits to reduce absolute scope 1 and 2 GHG emissions 60% by FY2022 from a FY2007
+  base-year.
+- Global food and beverage company Nestlé commits to reduce absolute scope 1 and 2 GHG
+  emissions by 12% between 2014 and 2020. 
+
+**Sectoral Decarbonization Approach (SDA)**
+
+The SDA is a method for setting physical intensity targets that uses convergence of emissions intensity.
+An intensity target is defined by a reduction in emissions relative to a specific business metric, such as
+production output of the company (e.g., tonne CO2e per tonne product produced). The SDA assumes
+global convergence of key sectors’ emissions intensity by 2060. For example, the emissions intensity of
+steel production in China, the U.S., and Brazil is assumed to reach the same level by 2060, regardless of
+its current diversity.15 Regional pathways have not been incorporated into this method. 
+
+The SDA uses the B2DS scenario from the International Energy Agency (IEA) report “Energy Technology
+Perspectives (ETP) 2017,” which comprises emissions and activity projections used to compute sectoral
+pathways aligned with limiting warming to well-below 2°C (IEA, 2017). Due to the lack of 1.5°C scenario
+data from IEA, SBTi currently does not provide an SDA option for 1.5°C targets. 
+
+Currently, the SDA method provides sector-specific pathways for the following homogenous and energyintensive sectors 
+
+​	**Available in the [Science-Based Target Setting Tool:](/how/SBTi-tool.xlsx ':ignore')**
+
+- Power Generation
+
+- Iron & Steel
+
+-  Aluminum
+
+- Cement
+
+- Pulp & Paper
+
+- Services/commercial buildings 
+
+  **Available in the [SDA Transport Tool](https://sciencebasedtargets.org/transport-2/):**
+
+- Passenger and Freight Transport 
+
+Targeted emissions intensity varies by company base year emissions intensity, projected activity growth,
+and sectoral budgets. Companies can use the relevant SDA pathways to calculate intensity in the target year. The SDA method covers scopes 1 and 2. It has limited applicability to other scope 3 categories .
+
+A previous target setting tool specific to SDA calculated SBTs for a general “Other Industry” category that
+covers sectors other than the ones listed above, including construction industry and manufacturing
+sectors (e.g., food and beverage, electronics, machinery). Please note that the “Other Industry” pathway
+has been disabled in the new Science-Based Target Setting Tool. Companies in these sectors should use
+the absolute emissions contraction approach to set targets (please see section “Other Target
+formulations” below for more guidance). 
+
+| Method                                  | Company Input                                                | Method Output                                                |
+| --------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Sectoral Decarbonization Approach (SDA) | ● Base year <br />● Target year <br />● Base year emissions, disaggregated by scope <br />● Activity level in the base year (e.g., building floor area, distance travelled, etc.) <br />● Projected change in activity by target year | A reduction in emissions relative to a specific production output of the company (e.g., tonne CO2e per MWh) |
+
+Example of physical intensity targets set using SDA:
+
+- Italian multinational manufacturer and distributor of electricity and gas Enel commits to reduce
+  CO2 emissions 25% per kWh by 2020, from a 2007 base year.
+- European real estate operator Covivio commits to reduce scope 1 and 2 GHG emissions 35% per
+  sqm by 2030 from a 2017 base-year. 
+
+Economic Intensity Contraction
+Greenhouse Gas Emissions per Value Added (GEVA) is a method for setting economic intensity targets
+using the contraction of economic intensity. Targets set using the GEVA method are formulated by an
+intensity reduction of tCO2e/$ value added.  Under the GEVA method, companies are required to reduce
+their GEVA by 7% per year (compounded). The 7% year-on-year reduction rate is based on an absolute
+emissions reduction of about 75% by 2050 from 2010 levels. Based on recent economic projections and
+estimates of historic emissions, the 7% rate is broadly compatible with high-confidence IPCC (RCP2.6)
+pathways, and its ambition is intermediate between the IEA 2DS and B2DS pathways, under idealized
+conditions that are expounded below (ETP, 2017; SBTi, 2019) 
+
+Unlike the Absolute Contraction and SDA methods, GEVA only maintains a global emissions budget to the
+extent that the growth in value added of individual companies is equal to or smaller than the underlying
+economic projection. The differentiated growth of companies and sectors is not balanced by GEVA (and
+other economic intensity target-setting methods); thus, the currently accepted GEVA value depends on
+idealized conditions where all companies are growing at the same rate, equal to that of GDP, and GDP
+growth is precisely known. For these reasons, and due to the volatility of economic metrics, economic
+intensity target-setting methods are considered less robust than absolute and physical intensity methods. 
+
+>Important Note: per SBTi criteria, scope 1 and 2 targets using GEVA are only acceptable when they
+>lead to a reduction in absolute emissions in line with well-below 2°C and 1.5 °C scenarios. GEVA is
+>therefore more applicable for scope 3 target-setting (please see Chapter 8 for detailed guidance on
+>scope 3 target setting). 
+
+| Method                        | Company Input                                                | Method Output                                                |
+| ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| GHG Emissions per Value Added | ● Base year <br />● Target year <br />● Base year emissions, disaggregated by scope <br />● Value added in the base year <br />● Projected change in value added by target year | A reduction in emissions relative to financial performance of the company (e.g., tonne CO2e per value added). |
+
+Example of economic intensity target set using GEVA:
+
+- Manufacturer of outdoor power products Husqvarna Group AB commits to reduce scope 1 and
+  scope 2 emissions 30% per unit of value added by 2020 from a 2015 base-year. 
+
+**Other Target Formulations**
+
+Depending on reporting and communication preferences, a company can choose to use the target format
+output by a method and/or translate it to other formats (e.g., use production data to convert an absolute
+target into an intensity target). Companies can choose to use an economic or physical metric most
+representative of the companies’ profiles to formulate targets. For instance, companies in sectors where
+sector-specific pathways are not yet available can set an intensity target based on its main product output.
+With such target formulation, companies need to ensure that the absolute emissions reduction is in line
+with the absolute contraction approach. 
+
+Example of targets using other formulations set:
+
+- Global Brewer AB InBev commits to reduce emissions across the value chain (scopes 1, 2 and 3)
+  by 25% per beverage by 2025, from a 2017 base year. 
+
+**总结**
+
+![SBTI2](SBTI2.png)
+
