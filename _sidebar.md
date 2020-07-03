@@ -17,7 +17,8 @@
   * [以ESG实现监管](apply/ESG-as-supervision.md "如何以ESG实现市场监管")
   * [ESG评级](apply/ESG-rating.md "ESG的评级机构有哪些")
   * [作为投资工具](apply/ESG-investment.md "ESG作为投资工具的应用")
-  * [作为沟通工具<sup style="color:red">(new)<sup>](apply/ESG-communicate.md "ESG如何作为沟通工具")
+  * [作为沟通工具](apply/ESG-communicate.md "ESG如何作为沟通工具")
+  * [ESG投资与价值<sup style="color:red">(new)<sup>](apply/ESG-investment-and-social-value.md "ESG投资能否创造社会价值")
 
 * ESG 披露实践
   
