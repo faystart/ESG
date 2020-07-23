@@ -1,5 +1,3 @@
 ## All about ESG
 
-> Environmental, Social, and Governance, and more.
-
-
+Environmental, Social, and Governance, and more.
