@@ -2,6 +2,50 @@
 
 ESG的发展可追溯至上世纪70年代，发达国家开始兴起绿色消费及环境保护等倡议。美国的绿色金融制度的发展基本上可以分为两个阶段，一是20世纪90年代以前的“伴随性发展阶段”。在此阶段，绿色金融制度立法相对比较片面，主要体现在环境保护法中，涉及主体主要是政府部门。第二个阶段是20世纪90年代后的“快速发展时期”，美国趋于世界领先地位，其中奥巴马政府的绿色经济新政是绿色金融制度构建的转折点，涉及主体包括政府机关、非政府组织、金融机构、生产企业以及公民个人。
 
+## 什么是ESG投资
+
+在[ESG投资与价值](apply/ESG-investment-and-social-value)中提到：
+
+> ESG 投资是在投资流程中，将环境、社会、公司治理三个议题纳入考虑。依国际上的共识，纳入考虑的方式是以”ESG 投资的七大策略”来彰显，而这些策略同时界定了 ESG 投资。七大策略分别是负面筛选法、依公约筛选法、同类最佳法、ESG整合法、可持续主题投资法、积极股东法以及影响力投资。它们可单独使用，亦可复合使用。另外，七个策略崛起的时间不同，其中以负面筛选法最早，上世纪70 年代由 Pax World Fund 率先提出；影响力投资最晚，于 2007 年由洛克菲勒基金会、摩根大通银行等组织所推出。
+
+如果逐一拆解ESG中的三个因素**Environmental（环境）**、**Social（社会）**及**Governance（公司治理）**：
+
+- 环境：ESG投资主要关注企业在生产过程中产生的温室气体排放、能源效率、土地利用、废弃物处理、水污染及有害物质排放等因素。
+- 社会：包括员工工作时长、工作环境的安全性、用工规范性和平等性、为社区提供的就业机会、员工医疗保健政策等。
+- 公司治理：主要指企业的商业道德、董事会的独立性及背景多元化、股东投票权、高管和员工的薪酬体系、政治献金和游说花费、财务透明度等因素。
+
+
+
+![MorningStar-ESG-component](MorningStar-ESG-component.png)
+
+（资料来源：[MorningStar晨星公众号文章:美国共同基金的ESG投资实践：标准、业绩及策略 ](https://mp.weixin.qq.com/s/8MiXTFoa9Xju91h5QxW6TQ)）
+
+## 投资策略
+
+所有策略均为人为区分，因而不一定能囊括全部，或者必然正确。
+
+!> MorningStar 给出一个区分的思路*（来源见上链接）*：
+
+### 被动权益投资策略
+
+如 **Vanguard FTSESocial Index Fund（VFTAX）**，该基金所跟踪指数的编制来看，该指数主要涵盖美国大中盘股票，并从中剔除了涉及化石燃料、烟草、酒精、核能、成人娱乐及赌博业务的公司，然后采用市值加权法进行编制。
+
+### 主动权益投资策略
+
+**Parnassus Mid-Cap Fund** 采用了量化筛选和主动择优相结合的方法。该基金首先将涉及酒精、烟草、武器、核能、赌博及化石燃料业务的企业排除在其投资范围外，再用公司治理和商业道德作为正向指标进行个股精选。除此之外，该基金与大多数成长基金一样，将企业的竞争优势的持续性及成长空间列为选股考虑的重要因素。
+
+### 固收投资
+
+> 相较权益产品而言，ESG策略在固收产品中的渗透相对缓慢。阻碍债券基金发展ESG策略的主要原因有以下三个：首先，投资者可以选择只投资政府债基金来避免投资到他们不喜欢的公司；其次，债券投资者并不能像权益投资者一样通过股东大会投票来参与上市公司治理；最后，因为多数债券基金会采用较为分散的策略来降低违约风险，但采用ESG精选个券策略有可能会使组合无法实现理想的分散程度。
+
+**TIAA-CREF Core Impact Bond Fund**采用了ESG量化筛选和个券选择相结合的方式，证明了ESG策略在债券基金中的可行性。
+
+- 其中60-70%的资产投资于用ESG指标进行量化粗筛后的个券，以确保组合具有足够的持仓分散度和流动性；
+- 剩余30-40%的仓位则采用ESG精选个券的方法进行管理，来实现影响力投资。
+- 相应的，该基金的持仓主要由政府债和企业债组成，组合还持有9%的应税市政债，主要为ESG精选个券的结果。整体来看，该组合在久期和信用风险暴露程度上都和普通债基无异，业绩表现也与同类非ESG债基相当。
+
+!> 关于 ESG投资是否能创造社会价值的讨论，见[ESG 投资与创造价值](/apply/ESG-investment-and-social-value)。
+
 ## 指南和倡议
 
 **ESG信息披露国际倡议**
@@ -108,6 +152,14 @@ NGFS（The Network of Central Banks and Supervisors for Greening the Financial S
 - **Security sensitivity/scenario analysis**: Adjustments to variables (sensitivity analysis) and different ESG scenarios (scenario analysis) are applied to valuation models  to  compare  the  difference  between  the  base-case  security  valuation  and  theESG-integrated security valuation.
 
 ## 美国ESG投资实践
+
+根据评级机构晨星（MorningStar）的统计([来源](https://mp.weixin.qq.com/s/8MiXTFoa9Xju91h5QxW6TQ))（[备份](/apply/USA-ESG-practices.html ) ）：
+
+> ESG投资在近年来发展迅速，现已成为投资界最炙手可热的议题。2019年美国ESG基金的资金净流入超过200亿美元，较2018年的50亿美元出现了大幅提升。随着市场对ESG关注度的提升，Vanguard、PIMCO及Fidelity等各大基金公司纷纷加入ESG投资的行列，ESG的投资策略也开始日趋成熟。本文将以美国ESG基金为例，介绍当前国际上主流的几种ESG投资策略。
+
+![](MorningStar-Static-On-USA-ESG-2019.png)
+
+
 
 ### John Hancock 
 
@@ -221,4 +273,4 @@ The 17 global SDGs were set by the UN General Assembly in 2015 as a way  of achi
 
 Investors are beginning to realise that they have the power to make an  impact by choosing where and how to invest their funds. Investing with  sustainability goals in mind allows investors to influence the way the  economy works or how a company behaves through the allocation of  capital. It can drive innovation by channelling money towards new  technologies, reinforce positive behaviour by rewarding good practices  and impact the entire economic value chain. Furthermore, designated  strategies can make investments with a specific goal in mind, such as  addressing the need for clean water or curbing carbon emissions. 
 
-AllianzGI has developed a framework for SDG-aligned and  sustainability-themed investing to provide a clearer proposition for  clients who want their investments to contribute to a better world, in  addition to generating financial returns. 
+AllianzGI has developed a framework for SDG-aligned and  sustainability-themed investing to provide a clearer proposition for  clients who want their investments to contribute to a better world, in  addition to generating financial returns. i
