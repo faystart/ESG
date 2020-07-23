@@ -153,7 +153,7 @@ NGFS（The Network of Central Banks and Supervisors for Greening the Financial S
 
 ## 美国ESG投资实践
 
-根据评级机构晨星（MorningStar）的统计([来源](https://mp.weixin.qq.com/s/8MiXTFoa9Xju91h5QxW6TQ))（[备份](/apply/USA-ESG-practices.html ) ）：
+根据评级机构晨星（MorningStar）的统计([来源](https://mp.weixin.qq.com/s/8MiXTFoa9Xju91h5QxW6TQ))（[备份](/apply/USA-ESG-practices.html ':ignore') ）：
 
 > ESG投资在近年来发展迅速，现已成为投资界最炙手可热的议题。2019年美国ESG基金的资金净流入超过200亿美元，较2018年的50亿美元出现了大幅提升。随着市场对ESG关注度的提升，Vanguard、PIMCO及Fidelity等各大基金公司纷纷加入ESG投资的行列，ESG的投资策略也开始日趋成熟。本文将以美国ESG基金为例，介绍当前国际上主流的几种ESG投资策略。
 
