@@ -4,6 +4,7 @@
 
   * [ESG是什么](about/ESG.md "ESG是什么")
   * [ESG发展史](about/ESG-history.md "ESG的发展史")
+  * [ESG投资史](about/ESG-investment-history.md "ESG投资发展小史及数据")
 
 * ESG标准
 

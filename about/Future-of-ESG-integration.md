@@ -2,7 +2,7 @@
 
 “ESG integration” is defined as including environmental, social and  governance (ESG) factors as a component of fundamental analysis to  identify potential sources of alpha or risk reduction.
 
-[via]( https://www.rbcgam.com/en/ca/article/the-future-of-esg-integration/detail':ignore') 
+[via]( https://www.rbcgam.com/en/ca/article/the-future-of-esg-integration/detail) 
 
 ## Responsible investment
 
