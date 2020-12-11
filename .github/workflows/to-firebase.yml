@@ -1,0 +1,28 @@
+name: Deploy to firebase
+
+# 触发条件：在 push 到 master 分支后
+on:
+  push:
+    branches:
+      - vuepress
+
+# 任务
+jobs:
+  build-and-deploy:
+    # 服务器环境：最新版 Ubuntu
+    runs-on: ubuntu-latest
+    steps:
+      # 拉取代码
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      # 生成静态文件
+      - name: Build
+        run: npm install && npm run docs:build
+      - name: Deploy to Firebase
+        uses: lowply/deploy-firebase@v0.0.3
+        env:
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+          FIREBASE_PROJECT: ${{ secrets.FIREBASE_PROJECT }}
