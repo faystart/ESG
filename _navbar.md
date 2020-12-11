@@ -1,5 +1,0 @@
-- [主页](/)
-- 更多
-  - [CSR博客](https://3feng.im/)
-  - [公益创投](https://lib.3feng.im/venture-philanthropy/)
-- [联系](contact)
