@@ -4,7 +4,7 @@ name: Deploy to firebase
 on:
   push:
     branches:
-      - vuepress
+      - main
 
 # 任务
 jobs:
