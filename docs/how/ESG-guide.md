@@ -153,7 +153,7 @@ There   are   three   available   target-setting   methods:   absolute   emissio
 有三种受SBTi认可的公司碳目标设定方法：
 
 - **行业脱碳方法(Sectoral Decarbonization Approach ,SDA)**（对同质性部门使用趋同convergence方法），
-- **绝对排放收缩（absolute emission contraction）**和
+- **绝对排放收缩（absolute emission contraction）** 和
 - **经济强度（economic intensity contraction）收缩**
 
 > - 行业脱碳方法:  SDA  目标以排放/特定商业指标（例如生产每吨产品的吨二氧化碳当量）的形式提出。这一方法基于如下假设：到2050年，在同一个同质部门内，所有生产者的排放强度（physical  emission  intensity）将趋同至同一数值。不同公司根据其基准年排放强度和他们在行业活动中所占的比重来划分各自的责任，因此对于市场份额不断增长的公司，SDA要求更快速的排放强度减排路径，以免导致行业碳预算超标。
