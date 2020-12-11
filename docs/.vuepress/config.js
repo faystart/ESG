@@ -13,19 +13,20 @@ module.exports = {
         nav: [           
             //格式一：直接跳转，'/'为不添加路由，跳转至首页
             { text: '首页', link: '/' }, 
-			{ text: '公司ESG披露实践', link: '/how/ESG-guide' }, 
-            { text: 'CSR博客', link: 'https://3feng.im' }, 			
-            { text: '公益创投', link: 'https://lib.3feng.im/venture-philanthropy/' }, 	
+			{ text: '公司ESG披露实践', link: '/how/ESG-guide' }, 		
+           			
             //格式二：添加下拉菜单，link指向的文件路径
-            //{
-            //    text: '分类',  //默认显示        
-            //    ariaLabel: '分类',   //用于识别的label
-            //    items: [
-            //        { text: '文章', link: '/pages/folder1/test1.md' },  
+            {
+                text: '帮助/服务？',  //默认显示        
+                ariaLabel: '需帮助/服务？',   //用于识别的label
+                items: [
+                    { text: 'CSR服务', link: 'https://3feng.im' },  
             //        //点击标签会跳转至link的markdown文件生成的页面
-            //        { text: '琐碎', link: '/pages/folder2/test4.md' },
-            //    ]
-            //},
+                    { text: 'ESG服务', link: '/contact.md' },
+					{ text: '公益创投', link: 'https://lib.3feng.im/venture-philanthropy/' }, 
+					{ text: '基金会咨询', link: 'https://lib.3feng.im/'}
+                ]
+            },
             //{ text: '功能演示', link: '/pages/folder1/test3.md' },
             
             //格式三：跳转至外部网页，需http/https前缀
@@ -49,7 +50,7 @@ module.exports = {
                 {
                     title: 'ESG标准',
                     collapsable: false, 
-					sidebarDepth: 2, 
+					sidebarDepth: 1, 
                     children: [
                         ['/criteria/ESG-Criteria', 'ESG标准'],
 						['/criteria/ESG-China','ESG在中国'],
@@ -61,7 +62,7 @@ module.exports = {
 				 {
                     title: 'ESG应用',
                     collapsable: false, 
-					sidebarDepth: 2, 
+					sidebarDepth: 1, 
                     children: [
                         ['/apply/ESG-as-supervision.md', '以ESG实现监管'],
 						['/apply/ESG-rating.md','ESG评级'],
