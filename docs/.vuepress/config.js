@@ -3,11 +3,10 @@ module.exports = {
     description: '关于ESG，包括ESG的标准有哪些，公司应如何披露ESG、提升ESG评级。Environmental, Social, Governance and more.', // meta 中的描述文字，用于SEO
     // 注入到当前页面的 HTML <head> 中的标签
 	base: '/' ,
-    head: [
-   
-    ['meta', { name: 'msapplication-TileColor', content: '#333333' }]
-  ],  
+
+
   themeConfig: {
+	  search: true,
         logo: '/esg.png',  //网页顶端导航栏左上角的图标
         //顶部导航栏
         nav: [           
@@ -25,8 +24,7 @@ module.exports = {
                 items: [
                      { text: 'ESG服务', link: '/contact.md' },
 					{ text: 'CSR服务', link: 'https://3feng.im' },  
-            //        //点击标签会跳转至link的markdown文件生成的页面
-					{ text: '公益创投', link: 'https://lib.3feng.im/venture-philanthropy/' }, 
+            		{ text: '公益创投', link: 'https://lib.3feng.im/venture-philanthropy/' }, 
 					{ text: '基金会咨询', link: 'https://lib.3feng.im/'},
 					{ text: '作者简历', link: 'https://zhou.3feng.im/'}
                 ]
@@ -95,30 +93,17 @@ module.exports = {
             
             //...可添加多个不同的侧边栏，不同页面会根据路径显示不同的侧边栏
 		},
+		lastUpdated: 'Last Updated',
 		
-		footer: {
-      // 页脚信息
-      createYear: 2019, // 博客创建年份
-      copyrightInfo:
-        'Power by | <a href="https://zhou.3feng.im" target="_blank">Zhou Sanfeng</a>', // 博客版权信息，支持a标签
-    },
 	smoothScroll: true,	
-	
+	markdown: {
+    // options for markdown-it-anchor
+    anchor: { permalink: false },
+    extendMarkdown: md => {
+      md.use(require("markdown-it-katex"));
+    }
+  }
   },
-  plugins: [  
-   ['@vuepress/back-to-top'],
-    ['@vuepress/pwa', {
-      serviceWorker: true,
-      updatePopup: true
-    }],
-    ['@vuepress/medium-zoom'],
-     ['@vuepress/last-updated',
-	 {
-        dateOptions:{
-          hour12: false
-        }
-      }
-	  ]
-  ]
-}
 
+  
+}

@@ -1,4 +1,5 @@
 ---
+pageClass: home-page
 home: true
 heroImage: /esg.png
 heroText: All About ESG
@@ -14,4 +15,3 @@ features:
 - title: Governance
   details: 公司的财务报表反映过去的管理及结果，公司的治理，将影响其当下及未来。
 ---
-
