@@ -105,7 +105,13 @@ module.exports = {
       updatePopup: true
     }],
     ['@vuepress/medium-zoom', true],
-     ['@vuepress/last-updated',]
+     ['@vuepress/last-updated',
+	 {
+        dateOptions:{
+          hour12: false
+        }
+      }
+	  ]
   ]
 }
 
