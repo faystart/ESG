@@ -32,10 +32,10 @@ module.exports = {
             //格式三：跳转至外部网页，需http/https前缀
             //{ text: 'Github', link: 'https://github.com/dwanda' },
         ],
+		activeHeaderLinks: true, // 默认值：true
         
         //侧边导航栏：会根据当前的文件路径是否匹配侧边栏数据，自动显示/隐藏
         sidebar: {
-			activeHeaderLinks: true, // 默认值：true
             '/':[         
                 {
                     title: 'ESG介绍',   // 一级菜单名称
@@ -85,7 +85,33 @@ module.exports = {
 			
             
             //...可添加多个不同的侧边栏，不同页面会根据路径显示不同的侧边栏
-		}
+		},
+		
+		footer: {
+      // 页脚信息
+      createYear: 2019, // 博客创建年份
+      copyrightInfo:
+        'Power by | <a href="https://zhou.3feng.im" target="_blank">Zhou Sanfeng</a>', // 博客版权信息，支持a标签
+    },
+	smoothScroll: true,
+	plugins: [  
+   ['@vuepress/back-to-top', true],
+    ['@vuepress/pwa', {
+      serviceWorker: true,
+      updatePopup: true
+    }],
+    ['@vuepress/medium-zoom', true],
+    [
+      '@vuepress/last-updated', // "上次更新"时间格式
+      {
+        transformer: (timestamp, lang) => {
+          const moment = require('moment') // https://momentjs.com/
+          return moment(timestamp).format('YYYY/MM/DD, hh:mm:ss')
+        },
+      },
+    ],
+  ]
+	
   }
 }
 

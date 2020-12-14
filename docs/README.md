@@ -5,7 +5,7 @@ heroText: All About ESG
 tagline: Environmental, Social, and Governance, and more.
 actionText: ESG为何重要
 actionLink: /why-esg-matters.md
-footer: Copyright © 2019-present by Zhou Sanfeng on Cloud.
+
 features:
 - title: Environmental
   details: 环境与地球上所有实体息息相关，作为市场主体的投资人（机构）越来越关注环境问题的时候，公司就必须关注于此。
