@@ -17,14 +17,15 @@ module.exports = {
            			
             //格式二：添加下拉菜单，link指向的文件路径
             {
-                text: '帮助/服务？',  //默认显示        
+                text: '帮助/关于',  //默认显示        
                 ariaLabel: '需帮助/服务？',   //用于识别的label
                 items: [
-                    { text: 'CSR服务', link: 'https://3feng.im' },  
+                     { text: 'ESG服务', link: '/contact.md' },
+					{ text: 'CSR服务', link: 'https://3feng.im' },  
             //        //点击标签会跳转至link的markdown文件生成的页面
-                    { text: 'ESG服务', link: '/contact.md' },
 					{ text: '公益创投', link: 'https://lib.3feng.im/venture-philanthropy/' }, 
-					{ text: '基金会咨询', link: 'https://lib.3feng.im/'}
+					{ text: '基金会咨询', link: 'https://lib.3feng.im/'},
+					{ text: '作者简历', link: 'https://zhou.3feng.im/'}
                 ]
             },
             //{ text: '功能演示', link: '/pages/folder1/test3.md' },
@@ -94,24 +95,17 @@ module.exports = {
         'Power by | <a href="https://zhou.3feng.im" target="_blank">Zhou Sanfeng</a>', // 博客版权信息，支持a标签
     },
 	smoothScroll: true,
-	plugins: [  
+	
+	
+  },
+  plugins: [  
    ['@vuepress/back-to-top', true],
     ['@vuepress/pwa', {
       serviceWorker: true,
       updatePopup: true
     }],
     ['@vuepress/medium-zoom', true],
-    [
-      '@vuepress/last-updated', // "上次更新"时间格式
-      {
-        transformer: (timestamp, lang) => {
-          const moment = require('moment') // https://momentjs.com/
-          return moment(timestamp).format('YYYY/MM/DD, hh:mm:ss')
-        },
-      },
-    ],
+     ['@vuepress/last-updated',]
   ]
-	
-  }
 }
 
