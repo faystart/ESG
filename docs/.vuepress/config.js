@@ -58,7 +58,8 @@ module.exports = {
                         ['/criteria/ESG-Criteria', 'ESG标准'],
 						['/criteria/ESG-China','ESG在中国'],
 						['/criteria/hkex-ESG','港交所ESG'],
-						['/criteria/hkex-new-esg-guide-2019','港交所ESG解读']
+						['/criteria/hkex-new-esg-guide-2019','港交所ESG解读'],
+						['/criteria/ESG-update','ESG政策更新']
                     ]
                 },
 				             ],
