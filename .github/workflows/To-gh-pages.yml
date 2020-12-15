@@ -19,7 +19,7 @@ jobs:
           persist-credentials: false
 
       # 生成静态文件
-      - name: Build
+      - name: install and build
         run: |
           npm install
           npm run docs:build
