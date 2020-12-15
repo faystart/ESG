@@ -96,13 +96,7 @@ module.exports = {
 		lastUpdated: 'Last Updated',
 		
 	smoothScroll: true,	
-	markdown: {
-    // options for markdown-it-anchor
-    anchor: { permalink: false },
-    extendMarkdown: md => {
-      md.use(require("markdown-it-katex"));
-    }
-  }
+	
   },
 
   
