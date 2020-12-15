@@ -4,7 +4,7 @@ name: Deploy GitHub Pages
 on:
   push:
     branches:
-      - vuepress
+      - main
 
 # 任务
 jobs:
@@ -24,7 +24,7 @@ jobs:
 
       # 部署到 GitHub Pages
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@releases/v3
+        uses: JamesIves/github-pages-deploy-action@releases/v3.7.1
         with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: gh-pages
