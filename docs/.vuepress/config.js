@@ -7,6 +7,7 @@ module.exports = {
 
   themeConfig: {
 	  search: true,
+	  lastUpdated: "上次更新",
         logo: '/esg.png',  //网页顶端导航栏左上角的图标
         //顶部导航栏
         nav: [           
@@ -111,9 +112,9 @@ plugins: [
         transformer: (timestamp, lang) => {
           //return (new Date(timestamp)).toUTCString() 或者用下面这段
           // 不要忘了安装 moment
-          const moment = require('moment')
-          moment.locale(lang)
-          return moment(timestamp).toString()
+           const moment = require("moment");
+          moment.locale(lang);
+          return moment(timestamp).format("YYYY-MM-DD");
         }
       }
     ],
