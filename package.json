@@ -16,5 +16,8 @@
     "docs:build": "vuepress build docs",
     "dev": "vuepress dev",
     "build": "vuepress build"
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
   }
 }

@@ -94,11 +94,30 @@ module.exports = {
             
             //...可添加多个不同的侧边栏，不同页面会根据路径显示不同的侧边栏
 		},
-		lastUpdated: 'Last Updated',
-		
 	smoothScroll: true,	
 	
   },
-
+plugins: [
+    // code-copy 插件安装后，每段代码行都看起来像多了一行，不好看。而且有较宽的行触发左右滑动时，复制按钮也跟着滑动，滑稽
+    //'code-copy',
+    ['@vuepress/pwa', {
+      serviceWorker: true,
+      updatePopup: true
+    }],
+    ['@vuepress/medium-zoom', true],
+    [
+      '@vuepress/last-updated', 
+      {
+        transformer: (timestamp, lang) => {
+          //return (new Date(timestamp)).toUTCString() 或者用下面这段
+          // 不要忘了安装 moment
+          const moment = require('moment')
+          moment.locale(lang)
+          return moment(timestamp).toString()
+        }
+      }
+    ],
+   
+  ]
   
 }
