@@ -52,7 +52,7 @@ Among U.S. companies on the S&P 500 index, those that scored in the top fifth of
 
 [^1]: MSCI ESG Research LLC, FactSet, Refinitiv, Sustainalytics, BofA Global Research U.S. Equity & Quant Strategy
 
-![](BofA_ESG-Placemat_For-in-line-article_2.png)
+![](BofA_ESG-Placemat_For-in-line-article_1.png)
 
 Past performance is no guarantee of future results.
 
