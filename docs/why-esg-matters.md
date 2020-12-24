@@ -48,20 +48,22 @@ Awareness also is on the rise among investors and companies in the United States
 
 **Avoiding corporate ‘blunders’**
 
-Among U.S. companies on the S&P 500 index, those that scored in the top fifth of ESG rankings outperformed their counterparts in the bottom fifth by at least three percentage points every year for the past five years, the report found. 
+Among U.S. companies on the S&P 500 index, those that scored in the top fifth of ESG rankings outperformed their counterparts in the bottom fifth by at least three percentage points every year for the past five years, the report found. [1]
 
-[^1]: MSCI ESG Research LLC, FactSet, Refinitiv, Sustainalytics, BofA Global Research U.S. Equity & Quant Strategy
+
 
 ![](BofA_ESG-Placemat_For-in-line-article_1.png)
 
 Past performance is no guarantee of future results.
 
-The report also found that ESG metrics have shown to be better at signaling a company’s future earnings than traditional financial measures like its level of debt
+The report also found that ESG metrics have shown to be better at signaling a company’s future earnings than traditional financial measures like its level of debt.[2]
 
-[^2]: Based on median change in 3yr EPOS volatility of S&P 500 companies  over subsequent three years, based on Refinitiv Overall ESG score from  12/2005-12/2015 (with volatility through 12/2018)
-
-. They also helped investors avoid losses related to “ESG blunders”—when companies become embroiled in regulatory and/or public relations crises. Such missteps by U.S. companies eliminated more than $500 billion in market capitalization from 2014 to 2019.
-
-[^3]: Includes 24 major S&P 500 corporate controversies related to data  breaches, accounting scandals, sexual harassment and other ESG matters.The information above is extracted from a previously published  research report dated November 25, 2019, which contains additional  information and important disclosures. The report may be found at:https://www.bofaml.com/content/dam/boamlimages/documents/articles/ID19_12722/ESG_from_A_to_Z.pdf
+They also helped investors avoid losses related to “ESG blunders”—when companies become embroiled in regulatory and/or public relations crises. Such missteps by U.S. companies eliminated more than $500 billion in market capitalization from 2014 to 2019.[3]
 
 “Based on our findings, we believe that ESG considerations are no longer simply another option for investors,” Subramanian says. “They are an essential part of the investing process.”
+
+[1] MSCI ESG Research LLC, FactSet, Refinitiv, Sustainalytics, BofA Global Research U.S. Equity & Quant Strategy
+
+[2]Based on median change in 3yr EPOS volatility of S&P 500 companies  over subsequent three years, based on Refinitiv Overall ESG score from  12/2005-12/2015 (with volatility through 12/2018)
+
+[3]Includes 24 major S&P 500 corporate controversies related to data  breaches, accounting scandals, sexual harassment and other ESG matters.The information above is extracted from a previously published  research report dated November 25, 2019, which contains additional  information and important disclosures. The report may be found [here](https://www.bofaml.com/content/dam/boamlimages/documents/articles/ID19_12722/ESG_from_A_to_Z.pdf)
