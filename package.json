@@ -1,0 +1,23 @@
+{
+  "name": "ESG",
+  "version": "1.0.0",
+  "description": "about esg",
+  "main": "index.js",
+  "repository": "https://github.com/faystart/esg",
+  "author": "faydao",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-nprogress": "^1.7.1",
+    "vuepress": "^1.7.1",
+    "vuepress-theme-vdoing": "^1.6.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
