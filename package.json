@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "about esg",
   "main": "index.js",
-  "repository": "https://github.com/faystart/esg",
+  "repository": "https://github.com/nfway/esg",
   "author": "faydao",
   "license": "MIT",
   "devDependencies": {
