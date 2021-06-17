@@ -69,7 +69,7 @@ ESG 在企业（被投资标的）中的重要性如何？企业是如何看待 
 
 ### UNPRI 的忠告
 
-在 [ESG 披露指南](/how/ESG-guide)中提到：
+在 [ESG 披露指南](/how/ESG-guide/)中提到：
 
 > 《[中国的ESG数据披露：关键ESG指标建议 (opens new window)](https://www.unpri.org/download?ac=6973)》（[备份](https://esg.js.org/how/ESGDisclosure-in-China.pdf':ignore')），UNPRI
 
