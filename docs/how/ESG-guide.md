@@ -4,6 +4,28 @@
 
 主要参阅香港交易所《[如何编备环境、社会及管治报告](https://www.hkex.com.hk/-/media/HKEX-Market/Listing/Rules-and-Guidance/Other-Resources/Listed-Issuers/Environmental-Social-and-Governance/Exchanges-guidance-materials-on-ESG/step_by_step_c.pdf?la=zh-HK)》（[中文版](/how/hkex-esg-reporting-guide.pdf ':ignore')）
 
+## 在披露前的准备：引入 ESG
+
+A business must consider different factors while deciding its ESG policies. To begin with, it must assess where it stands when it comes to adopting ESG measures. Is it just starting, or has it already taken steps towards ESG. This will help to answer some key questions such as:
+
+If you are thinking to adopt ESG policies for your business-
+
+- Determine the most critical areas where ESG needs to focus on
+- Conduct an assessment among your investors, board, employees and customers which helps to identify key priority areas for ESG
+- Learn about different ESG standards, frameworks and policies
+- Allocate resources and define your strategies with accountability measures
+
+If your business has already started developing ESG measures and gone beyond the above stage-
+
+- Become signatory to different relevant standard and reporting frameworks and check for your business’s industry standard benchmark
+- Run your ESG measures through different internal assessment and make sure it meets the required guidelines
+- Make your ESG strategy meet the required operating and governance model as stated by the investors and existing compliances
+- Keep yourself updated with the changing regulations, and needs of your stakeholders
+- Engage with other business, associations, regulators and stakeholders to build collaborations and progress towards greater impact and shaping better ESG practices
+Businesses which are highly committed towards their ESG policies, make it a priority for the senior management and tie compensation to [ESG metrics](https://www.ipe.com/integrating-esg-issues-with-executive-pay/48169.article). As per a survey by Pay Governance in [January 2021](https://www.paygovernance.com/viewpoints/inclusion-of-esg-metrics-in-incentive-plans-evolution-or-revolution), 29% companies have included ESG metrics in their incentive compensation plans compared to 22% in 2020.
+
+These companies are reporting ESG targets, and progress towards meeting them, to **all stakeholders** via the annual reports, internal corporate communications and/or annual sustainability reports on their corporate website.
+
 ## 投资者对于ESG的期待
 
 - ESG报告有助于投资者理解公司业绩表现。投资者希望不断看到公司战略、发展目标、执行过程、重大风险、关键表现和进步等信息
@@ -12,7 +34,7 @@
 
 ### 投资者对ESG数据的期待
 
-> 《[中国的ESG数据披露：关键ESG指标建议](https://www.unpri.org/download?ac=6973)》（[备份](/how/ESGDisclosure-in-China.pdf':ignore')），UNPRI
+> 《[中国的ESG数据披露：关键ESG指标建议](https://www.unpri.org/download?ac=6973)》（[备份](/how/ESGDisclosure-in-China.pdf ':ignore')），UNPRI
 
 - **数据可比性和标准化**：公司应采用标准化的指标，并以现存国际及地区性的框架为指导。与香港上市规则要求（ESG指引）内所列数据可比这一点被特别提及；
 - **清晰的披露范围和透明的方法论**：披露框架中所有指标均可用，并与现行方法论相符，以确保方法论的时间一致性；
