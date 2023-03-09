@@ -4,7 +4,7 @@ home: true
 heroImage: /esg.png
 heroText: All About ESG
 tagline: Environmental, Social, and Governance, and more.
-actionText: ESG为何重要
+actionText: ESG为何重要 / redirect to ohesg.com
 actionLink: /why-esg-matters.md
 footer: Since 2019,by Zhou Sanfeng on Cloud. (CC BY-NC-ND 4.0)
 features:
